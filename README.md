@@ -1,2 +1,2 @@
 # amicable
-To print  number of amicable pairs
+To print given number of amicable pairs
